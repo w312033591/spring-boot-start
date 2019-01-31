@@ -1,0 +1,6 @@
+com\iflytek\IflytekApplication.class
+com\iflytek\controller\UserController.class
+com\iflytek\pojo\IMoocJSONResult.class
+com\iflytek\controller\TestController.class
+com\iflytek\pojo\Resource.class
+com\iflytek\pojo\User.class
